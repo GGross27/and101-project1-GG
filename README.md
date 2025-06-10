@@ -35,8 +35,10 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/1AdN4Mi.gif' title='Video Demo' width='300' alt='Video Demo' />
-
+<!-- img src='https://i.imgur.com/1AdN4Mi.gif' title='Video Demo' width='300' alt='Video Demo' /-->
+<p align="center">
+  <img src="https://i.imgur.com/XPrCvwd.gif" alt="Video Demo" width="400"/>
+</p>
 
 GIF created with **Imgur**
 
